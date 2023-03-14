@@ -37,7 +37,7 @@ An open source kickass cross platform Calculator with power of alligator 🐊
 [**Download**](https://github.com/sarthology/caligator/releases/latest) the `.exe` file.
 
 
-## TODO
+## TODODO:
 - [ ] Export Options
 - [ ] Font size preferences
 - [ ] More themes 🎉
